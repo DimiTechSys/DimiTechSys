@@ -1,9 +1,13 @@
 <h1 align="center">👋 Salut, moi c'est Dimitri</h1>
 
 <p align="center">
-  <b>Développeur web full-stack</b> · Étudiant ingénieur à l'ESIEA<br/>
+  <b>Développeur web full-stack</b> · Étudiant ingénieur à l'ESIEA · Cofondateur de <b>Baseflow</b><br/>
   Je conçois et livre des <b>applications web sur mesure</b> pour de vrais clients —<br/>
   de la vitrine premium au SaaS complet.
+</p>
+
+<p align="center">
+  🔎 <b>Je recherche un stage</b> en développement / ingénierie logicielle.
 </p>
 
 <p align="center">
@@ -16,10 +20,11 @@
 ## 🧑‍💻 À propos
 
 - 🎓 Étudiant en **4ᵉ année à l'ESIEA**, orienté systèmes embarqués & robotique.
-- 💼 En parallèle, je développe des **produits web pour des clients** : SaaS métier, back-offices, sites vitrines à forte conversion.
+- 🏢 **Cofondateur de [Baseflow](https://github.com/DimiTechSys/Portfolio)**, où je livre des produits web pour de vrais clients : SaaS métier, back-offices, sites vitrines à forte conversion.
+- 🔎 **En recherche d'un stage** en développement / ingénierie logicielle — dispo pour discuter d'une mission concrète.
 - 🤖 J'aime intégrer l'**IA** dans des cas d'usage concrets (OCR de documents, assistants conversationnels, reconnaissance vocale).
 - 🚀 Ma stack de prédilection : **Next.js / React / TypeScript** côté front, **Supabase / Prisma / PostgreSQL** côté back.
-- 📫 Un projet en tête ? → **baseflow.fr@gmail.com**
+- 📫 Me contacter → **baseflow.fr@gmail.com**
 
 ---
 
@@ -78,5 +83,5 @@
 ---
 
 <p align="center">
-  <i>Ouvert aux opportunités et aux collaborations — n'hésite pas à me contacter ✉️</i>
+  <b>🔎 À la recherche d'un stage</b> — une piste, une question ? Écris-moi ✉️ <a href="mailto:baseflow.fr@gmail.com">baseflow.fr@gmail.com</a>
 </p>
