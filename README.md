@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/dimitri-voissier/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:baseflow.fr@gmail.com"><img src="https://img.shields.io/badge/Email-baseflow.fr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/DimiTechSys/Portfolio"><img src="https://img.shields.io/badge/Mon_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </p>
@@ -24,7 +25,7 @@
 - 🔎 **En recherche d'un stage** en développement / ingénierie logicielle — dispo pour discuter d'une mission concrète.
 - 🤖 J'aime intégrer l'**IA** dans des cas d'usage concrets (OCR de documents, assistants conversationnels, reconnaissance vocale).
 - 🚀 Ma stack de prédilection : **Next.js / React / TypeScript** côté front, **Supabase / Prisma / PostgreSQL** côté back.
-- 📫 Me contacter → **baseflow.fr@gmail.com**
+- 📫 Me contacter → **baseflow.fr@gmail.com** · [LinkedIn](https://www.linkedin.com/in/dimitri-voissier/)
 
 ---
 
@@ -83,5 +84,6 @@
 ---
 
 <p align="center">
-  <b>🔎 À la recherche d'un stage</b> — une piste, une question ? Écris-moi ✉️ <a href="mailto:baseflow.fr@gmail.com">baseflow.fr@gmail.com</a>
+  <b>🔎 À la recherche d'un stage</b> — une piste, une question ?<br/>
+  ✉️ <a href="mailto:baseflow.fr@gmail.com">baseflow.fr@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/dimitri-voissier/">LinkedIn</a>
 </p>
