@@ -1,18 +1,18 @@
 <h1 align="center">👋 Salut, moi c'est Dimitri</h1>
 
 <p align="center">
-  <b>Développeur web full-stack</b> · Étudiant ingénieur à l'ESIEA · Cofondateur de <b>Baseflow</b><br/>
-  Je conçois et livre des <b>applications web sur mesure</b> pour de vrais clients —<br/>
-  de la vitrine premium au SaaS complet.
+  <b>Étudiant ingénieur ESIEA</b> — Majeure <b>Systèmes Embarqués &amp; Autonomes</b> · Cofondateur de <b>Baseflow®</b><br/>
+  Je conçois des systèmes embarqués &amp; robotiques, et je livre des <b>applications logicielles en production</b>.
 </p>
 
 <p align="center">
-  🔎 <b>Je recherche un stage</b> en développement / ingénierie logicielle.
+  🔎 <b>Je recherche un stage en robotique / systèmes embarqués</b> — 6 mois, de février à juillet 2027.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dimitri-voissier/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:baseflow.fr@gmail.com"><img src="https://img.shields.io/badge/Email-baseflow.fr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:dimitri.voissier@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://baseflow.fr"><img src="https://img.shields.io/badge/Baseflow-18C2A8?style=for-the-badge&logo=vercel&logoColor=white" alt="Baseflow"/></a>
   <a href="https://github.com/DimiTechSys/Portfolio"><img src="https://img.shields.io/badge/Mon_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 </p>
 
@@ -20,55 +20,62 @@
 
 ## 🧑‍💻 À propos
 
-- 🎓 Étudiant en **4ᵉ année à l'ESIEA**, orienté systèmes embarqués & robotique.
-- 🏢 **Cofondateur de [Baseflow](https://github.com/DimiTechSys/Portfolio)**, où je livre des produits web pour de vrais clients : SaaS métier, back-offices, sites vitrines à forte conversion.
-- 🔎 **En recherche d'un stage** en développement / ingénierie logicielle — dispo pour discuter d'une mission concrète.
-- 🤖 J'aime intégrer l'**IA** dans des cas d'usage concrets (OCR de documents, assistants conversationnels, reconnaissance vocale).
-- 🚀 Ma stack de prédilection : **Next.js / React / TypeScript** côté front, **Supabase / Prisma / PostgreSQL** côté back.
-- 📫 Me contacter → **baseflow.fr@gmail.com** · [LinkedIn](https://www.linkedin.com/in/dimitri-voissier/)
+- 🎓 Étudiant en **cycle ingénieur à l'ESIEA** (diplôme 2027), **majeure Systèmes Embarqués & Autonomes**.
+- 🔎 **En recherche d'un stage robotique / systèmes embarqués de 6 mois** (février → juillet 2027).
+- 🤖 Projets embarqués concrets : robot Raspberry Pi, domotique Arduino/IoT, casier connecté **ESP32 + interface web**.
+- 🏢 **Cofondateur de [Baseflow®](https://baseflow.fr)** — je conçois et livre des applications web en production pour de vrais clients (SaaS, back-offices, vitrines).
+- 🌍 Parcours international : semestre d'échange à **SeoulTech** (Séoul) et à **Dublin**.
+- 📫 Me contacter → **dimitri.voissier@gmail.com** · [LinkedIn](https://www.linkedin.com/in/dimitri-voissier/)
 
 ---
 
 ## 🛠️ Stack technique
 
-**Langages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Robotique & Embarqué**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA_·_VHDL-0091BD?style=flat&logo=quartus&logoColor=white)
 
-**Frontend**
+**Langages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Développement web**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
-
-**Backend & Data**
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Outils & Ops**
+**Réseaux, Systèmes & Outils**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ---
 
-## 🚀 Projets phares
+## 🤖 Projets embarqués & robotique
+
+| Projet | Description | Techno |
+|---|---|---|
+| **Casier intelligent connecté** | Casier sécurisé avec interface web complète (front/back), communication sans fil et API embarquée | ESP32 + Web |
+| **Camion de pompier robotisé** | Prototype avec contrôle moteurs, intégration de capteurs et commande à distance | Raspberry Pi |
+| **Maison intelligente** | Système domotique : automatisation de l'éclairage, surveillance environnementale, sécurité | Arduino · IoT |
+
+## 💻 Projets web (via Baseflow)
 
 | Projet | Description | Stack | Liens |
 |---|---|---|---|
-| **PharmaWorkspace** | SaaS B2B multi-tenant pour officines : OCR d'ordonnances IA, ruptures de stock, commandes fournisseurs | Next.js · Supabase · Stripe · Mistral | [🌐 Site](https://www.pharmaworkspace.fr/) · [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/pharmaworkspace) |
-| **MBCZ Drive** | Vitrine & réservation pour un service de chauffeur privé Mercedes | React · Vite · Drizzle | [🌐 Site](https://mbczdrive.com/) · [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/mbczdrive) |
+| **PharmaWorkspace** | SaaS B2B multi-tenant pour officines : OCR d'ordonnances IA, ruptures de stock | Next.js · Supabase · Stripe | [🌐 Site](https://www.pharmaworkspace.fr/) · [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/pharmaworkspace) |
+| **MBCZ Drive** | Vitrine & réservation pour un service de chauffeur privé | React · Vite | [🌐 Site](https://mbczdrive.com/) · [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/mbczdrive) |
 | **Occitanie Verte** | Site vitrine paysagiste, statique & optimisé SEO | HTML · CSS · JS | [🌐 Site](https://www.occitanieverte.com/) · [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/occitanie-verte) |
-| **La Mie Dorée** | Catalogue + back-office pour une boulangerie premium (bilingue FR/EN) | Next.js · Prisma · next-intl | [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/boulangerie) |
-| **Capital Transfer** | Réservation de chauffeur privé à Paris : tarif fixe, paiement, SMS | Next.js · Stripe · Twilio | [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/capital-transfer) |
-| **Flagship** | Back-office de concession automobile : stock, ventes, dashboards | Next.js · Supabase · Recharts | [💻 Code](https://github.com/DimiTechSys/Portfolio/tree/main/flagship) |
 
 👉 **Tous mes projets réunis dans un seul repo : [DimiTechSys/Portfolio](https://github.com/DimiTechSys/Portfolio)**
 
@@ -84,6 +91,6 @@
 ---
 
 <p align="center">
-  <b>🔎 À la recherche d'un stage</b> — une piste, une question ?<br/>
-  ✉️ <a href="mailto:baseflow.fr@gmail.com">baseflow.fr@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/dimitri-voissier/">LinkedIn</a>
+  <b>🔎 À la recherche d'un stage robotique / systèmes embarqués — 6 mois, fév. → juil. 2027</b><br/>
+  ✉️ <a href="mailto:dimitri.voissier@gmail.com">dimitri.voissier@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/dimitri-voissier/">LinkedIn</a>
 </p>
